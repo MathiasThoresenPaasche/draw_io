@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T12:41:37.456Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="0J5ARaA6tqjJ4PXYFkxd" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T13:20:40.728Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="vRSaYiPkb0DK0nMUXw37" version="22.1.18" type="github">
   <diagram name="Page-1" id="n44ioH2fhHT-iPDDhm-j">
     <mxGraphModel dx="1430" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,7 +80,9 @@
           <mxGeometry y="100" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--39" value="Object Identification Requirments" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="370" width="160" height="100" as="geometry" />
+          <mxGeometry x="680" y="370" width="160" height="100" as="geometry">
+            <mxRectangle x="680" y="370" width="220" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--40" value="Item classes to be identified" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--39">
           <mxGeometry y="40" width="160" height="30" as="geometry" />
@@ -89,7 +91,7 @@
           <mxGeometry y="70" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--44" value="Bird&#39;s Eye View Requirements" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="490" width="160" height="360" as="geometry" />
+          <mxGeometry x="680" y="490" width="160" height="380" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--45" value="&lt;div&gt;Image resolution&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--44">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -107,25 +109,27 @@
           <mxGeometry y="150" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--51" value="Display bounding boxes and identifications on objects" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--44">
-          <mxGeometry y="180" width="160" height="30" as="geometry" />
+          <mxGeometry y="180" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--52" value="Distance circles around vessel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--44">
-          <mxGeometry y="210" width="160" height="30" as="geometry" />
+          <mxGeometry y="220" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--64" value="Brightness difference handling" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--44">
-          <mxGeometry y="240" width="160" height="30" as="geometry" />
+          <mxGeometry y="260" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--65" value="FOV overlapping handling " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--44">
-          <mxGeometry y="270" width="160" height="30" as="geometry" />
+          <mxGeometry y="290" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--50" value="(Live roll &amp;amp; pitch integration)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--44">
-          <mxGeometry y="300" width="160" height="30" as="geometry" />
+          <mxGeometry y="320" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--66" value="(IR camera capability)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--44">
-          <mxGeometry y="330" width="160" height="30" as="geometry" />
+          <mxGeometry y="350" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--53" value="Surrounding System Prerequisites" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="40" width="160" height="360" as="geometry" />
+          <mxGeometry x="480" y="40" width="160" height="430" as="geometry">
+            <mxRectangle x="480" y="40" width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--54" value="Running ROS2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -133,32 +137,35 @@
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--55" value="Image undistortion node" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B_wKqOTC0Gv96Q9B2UT--56" value="Image synchronization" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
+        <mxCell id="B_wKqOTC0Gv96Q9B2UT--56" value="Image time synchronization" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
           <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--57" value="Available hardware capacity" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
           <mxGeometry y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--61" value="Accurate extrinsic camera parameters in vessel frame" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
-          <mxGeometry y="150" width="160" height="30" as="geometry" />
+          <mxGeometry y="150" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--59" value="Accurate intrinsic camera parameters" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
-          <mxGeometry y="180" width="160" height="30" as="geometry" />
+          <mxGeometry y="190" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--62" value="System for transmitting BEV image to ROC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
-          <mxGeometry y="210" width="160" height="30" as="geometry" />
+          <mxGeometry y="220" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--63" value="Brightness calibration" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
-          <mxGeometry y="240" width="160" height="30" as="geometry" />
+          <mxGeometry y="260" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--67" value="360-degree coverage with RGB cameras" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
-          <mxGeometry y="270" width="160" height="30" as="geometry" />
+          <mxGeometry y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_wKqOTC0Gv96Q9B2UT--74" value="Available pre-trained detection/identification network" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
+          <mxGeometry y="320" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--68" value="(Live IMU data)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
-          <mxGeometry y="300" width="160" height="30" as="geometry" />
+          <mxGeometry y="370" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_wKqOTC0Gv96Q9B2UT--69" value="(IR camera capability)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B_wKqOTC0Gv96Q9B2UT--53">
-          <mxGeometry y="330" width="160" height="30" as="geometry" />
+          <mxGeometry y="400" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
