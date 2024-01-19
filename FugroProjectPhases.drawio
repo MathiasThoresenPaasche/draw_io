@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T07:19:06.616Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.18" etag="ksEvIq5n8XPo-1f98E-8" type="github">
-  <diagram name="Page-1" id="-_B68AysTgKCguDuDRWA">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-01-19T07:47:51.475Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="br-C5AfxDv3scYhD0Y7o" version="22.1.18" type="github">
+  <diagram name="Page-1" id="4TbU5-jDWlx2t7Kz9J2I">
+    <mxGraphModel dx="2074" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-1" value="- Project setup&lt;div&gt;- System requirements&amp;nbsp;&lt;/div&gt;&lt;div&gt;(SW &amp;amp; HW)&lt;/div&gt;&lt;div&gt;- SW architecture&lt;/div&gt;&lt;div&gt;- Decide FAT&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="212" y="150" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-2" value="&lt;font size=&quot;1&quot;&gt;&lt;u style=&quot;font-size: 35px;&quot;&gt;Project Phases&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-3" value="&lt;div&gt;- Receive old video recording&amp;nbsp;&lt;/div&gt;&lt;div&gt;and camera parameters&lt;/div&gt;&lt;div&gt;- R&amp;amp;D BEV &lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="273" y="295" width="301" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-4" value="&lt;div&gt;- Acquisition of HW&lt;/div&gt;&lt;div&gt;- Install new cameras&lt;/div&gt;&lt;div&gt;- Calibrate new cameras&lt;/div&gt;&lt;div&gt;- Record new video footage&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="392" y="150" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-5" value="&lt;div&gt;- Receive new video recording&amp;nbsp;&lt;/div&gt;&lt;div&gt;and new camera parameters&lt;/div&gt;&lt;div&gt;- R&amp;amp;D BEV with new&amp;nbsp;&lt;/div&gt;&lt;div&gt;camera setup&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="558" y="295" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Project&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="17" y="150" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-8" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;R&amp;amp;D&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="17" y="295" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-9" value="&lt;div&gt;R&amp;amp;D&amp;nbsp;&lt;/div&gt;&lt;div&gt;Obstacle&amp;nbsp;&lt;/div&gt;&lt;div&gt;detection&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="737" y="295" width="106" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-10" value="&lt;div&gt;R&amp;amp;D&amp;nbsp;&lt;/div&gt;&lt;div&gt;Object &lt;br&gt;&lt;/div&gt;&lt;div&gt;identification&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="827" y="295" width="106" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-11" value="&lt;div&gt;Combine all&amp;nbsp;&lt;/div&gt;&lt;div&gt;3 systems&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="917" y="295" width="106" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-13" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Testing and integration&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="17" y="440" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-14" value="&lt;div&gt;- System testing&lt;/div&gt;&lt;div&gt;- FAT&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- System installation&amp;nbsp;&lt;/div&gt;&lt;div&gt;and integration&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="440" width="157" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E7UQW1YNG7eQ1IgtyONK-15" value="&lt;div&gt;- Write system&amp;nbsp;&lt;/div&gt;&lt;div&gt;documentation&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="150" width="157" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
